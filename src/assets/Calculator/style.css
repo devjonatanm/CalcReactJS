@@ -23,3 +23,31 @@ body{
     border-style: solid;
     border-width: 1px;
 }
+
+.key2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #a8d7ff;
+    width: 162px;
+    height: 80px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+}
+.container .display{
+    display: flex;
+    justify-content: center;
+}
+
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  white;
+    width: 326px;
+    height: 80px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+}
