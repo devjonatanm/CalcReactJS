@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(250, 106, 106);
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
+
+.line{
+    display: flex;
+    justify-content: center;
+}
+
+.key{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #a8d7ff;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+}
