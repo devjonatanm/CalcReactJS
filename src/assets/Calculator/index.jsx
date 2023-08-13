@@ -4,10 +4,10 @@ import "./style.css";
 export function Calculator() {
   const [count, setCount] = useState(0)
 
-
   let value1 = 0
   let value2 = 0
   let operator = ''
+
   const operacArit = (event) => {
 
     let num = parseInt(event.target.textContent)
