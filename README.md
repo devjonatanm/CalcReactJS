@@ -1,6 +1,6 @@
 # Calculator
 # [Clique aqui para ver o projeto em funcionamento](https://shiny-pudding-debe92.netlify.app/)
-![](image.jpg)
+![](image.gif)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

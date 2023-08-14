@@ -6,6 +6,7 @@ body{
 }
 
 .container{
+    margin: 20px;
     background-color: rgb(255, 255, 255);
     padding: 50px;
     border-radius: 25px;
@@ -30,6 +31,7 @@ body{
     font-size: 30px;
     border-radius: 4px;
     margin: 0.5px;
+    cursor: pointer;
 }
 
 .key2{
@@ -66,4 +68,13 @@ body{
     font-size: 40px;
     margin: 0.5px;
     margin-bottom: 2px;
+}
+a{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    color: #f30;
+    font-weight: bolder;
+    font-size: 18px;
 }
